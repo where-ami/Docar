@@ -1,0 +1,8 @@
+{
+  "label": "HTB machines",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "A collection of Hack The Box machine walkthroughs."
+  }
+}
